@@ -1,0 +1,4 @@
+Capital: Tokyo
+Language: Japanese
+Population: 123,970,000
+Currency: JPY

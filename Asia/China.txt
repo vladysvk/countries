@@ -1,0 +1,4 @@
+Capital: Beijing
+Language: Chinese
+Population: 1,409,670,000
+Currency: CNY
