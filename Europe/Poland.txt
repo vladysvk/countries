@@ -1,0 +1,4 @@
+Capital: Warsaw
+Language: Polish
+Population: 38,036,118
+Currency: PLN
