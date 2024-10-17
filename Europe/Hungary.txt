@@ -1,0 +1,4 @@
+Capital: Budapest
+Language: Hungarian
+Population: 9,580,000
+Currency: HUF
