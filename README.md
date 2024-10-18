@@ -6,7 +6,9 @@ The following tasks are designed to help you learn how to use branches in a `git
 
 1. Create a copy of this repository (`fork`) in your GitHub account.
 
-1. Display Timeline of the most recent commits to the repository and its network ordered by most recently pushed to. From the top menu, select `Insights`, then `Network`.
+1. Display Timeline of the most recent commits to the repository and its network ordered by most recently pushed to. From the top menu, select `Insights`, then `Network`. You should see a commit and branch structure similar to the one below in your repository.
+
+    ![Network Graph](NetworkGraph.png)
 
 1. Clone your copy of the remote `countries` repository to your personal computer.
 
