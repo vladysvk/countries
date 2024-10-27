@@ -1,0 +1,4 @@
+Capital: Ottawa
+Language: English and French
+Population: 41,288,599
+Currency: CAD
