@@ -3,3 +3,4 @@ Language: Polish
 Population: 38,036,118
 Currency: PLN
 Flag: https://en.wikipedia.org/wiki/Poland#/media/File:Flag_of_Poland.svg
+Internet: .pl
